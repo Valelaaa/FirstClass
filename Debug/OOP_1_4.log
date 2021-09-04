@@ -1,0 +1,3 @@
+﻿  presentation.cpp
+C:\Users\kosne\source\repos\OOP_1_4\Vector.h(133,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP_1_4.vcxproj -> C:\Users\kosne\source\repos\OOP_1_4\Debug\OOP_1_4.exe
